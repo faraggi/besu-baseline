@@ -23,9 +23,12 @@ Besu Plugin documentation:
 
 https://javadoc.io/doc/org.hyperledger.besu/plugin-api/latest/index.html
 
+Demo plugin: https://github.com/PegaSysEng/PluginsAPIDemo
+
 https://besu.hyperledger.org/en/stable/Concepts/Plugins/
 https://besu.hyperledger.org/en/stable/Reference/API-Methods/#plugins-methods
 https://besu.hyperledger.org/en/stable/Reference/Plugin-API-Interfaces/
+plugin webinar: https://pegasys.tech/pluginsapiwebinar/
 
 Baseline docs:
 https://docs.google.com/presentation/d/1gMlpY8jPeJRgyB_pzd_HGsmIg5GmJcVCfibhyFwKVGs/edit#slide=id.g7292e0462e_0_0
