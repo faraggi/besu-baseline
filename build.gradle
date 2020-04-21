@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'tech.pegasys.besu.plugins.demo'
+group 'tech.pegasys.besu.plugins.besubaseline'
 version '1.0-SNAPSHOT'
 
 sourceCompatibility = 11
