@@ -20,6 +20,9 @@ https://docs.corda.net/docs/corda-os/3.2/key-concepts-flows.html
 Baseline community: ethereum-baseline.slack.com
 
 Besu Plugin documentation:
+
+https://javadoc.io/doc/org.hyperledger.besu/plugin-api/latest/index.html
+
 https://besu.hyperledger.org/en/stable/Concepts/Plugins/
 https://besu.hyperledger.org/en/stable/Reference/API-Methods/#plugins-methods
 https://besu.hyperledger.org/en/stable/Reference/Plugin-API-Interfaces/
